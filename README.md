@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Toni PM 👋
 
 <!--
 **toni-pm/toni-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as Programmer Analyst & Project Manager.
+- 🌱 I’m currently learning Cybersecurity.
+- 👯 I am looking to collaborate on cool projects 😎😎.
+- 🤔 I’m looking for help with "ganar dinero" 🧐🧐.
+- 💬 Ask me about what is "dierna", I suffer it.
+- 📫 How to reach me: https://toni-pm.herokuapp.com/
+- 😄 Pronouns: ...
+- ⚡ "Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"
