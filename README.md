@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://toni-pm.herokuapp.com/
+
 - 🔭 I’m currently working as Programmer Analyst & Project Manager.
 - 🌱 I’m currently learning Cybersecurity.
 - 👯 I am looking to collaborate on cool projects 😎😎.
 - 🤔 I’m looking for help with "ganar dinero" 🧐🧐.
 - 💬 Ask me about what is "dierna", I suffer it.
-- 📫 How to reach me: https://toni-pm.herokuapp.com/
-- 😄 Pronouns: ...
-- ⚡ "Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"
+!["Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"](https://c.tenor.com/-QOHAJE4P7UAAAAC/paranda-iker.gif "Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar")
