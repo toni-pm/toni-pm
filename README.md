@@ -22,4 +22,8 @@ https://toni-pm.herokuapp.com/
 - 👯 I am looking to collaborate on cool projects 😎😎.
 - 🤔 I’m looking for help with "ganar dinero" 🧐🧐.
 - 💬 Ask me about what is "dierna", I suffer it.
-!["Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"](https://c.tenor.com/-QOHAJE4P7UAAAAC/paranda-iker.gif "Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar")
+
+\
+!["Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"](images/paranda-iker.gif "Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar")
+
+"Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"
