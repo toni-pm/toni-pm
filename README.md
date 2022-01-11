@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cybersecurity.
 - 👯 I am looking to collaborate on cool projects 😎😎.
 - 🤔 I’m looking for help with "ganar dinero" 🧐🧐.
-- 💬 Ask me about what is "dierna", I suffer it.
 
 \
 !["Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar"](images/paranda-iker.gif "Él no diga lo que sea, no haga lo que digan, que ella a parar como parandar")
