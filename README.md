@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><a href="https://toni-pm.herokuapp.com/">https://toni-pm.herokuapp.com/</a></h3>
+<h3 align="center"><a href="https://tonipm.com/">https://tonipm.com/</a></h3>
 
 <br>
 
